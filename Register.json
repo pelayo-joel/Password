@@ -1,3 +1,32 @@
 {
-    "Burger":"burger"
+    "BurgerTheFood": {
+        "Passwords": [
+            "Burgerthefood-92"
+        ],
+        "Hashes": [
+            "5fac6174a9ec5434fa775c5386e7ed69f4847fdeb2e1a03d3ca148f861835e58"
+        ]
+    },
+    "MyName": {
+        "Passwords": [
+            "MyPass-00",
+            "SecondPass-00",
+            "Oooooooooopppppppppp------555555"
+        ],
+        "Hashes": [
+            "b8ca64d9ecf2f65eae7bc4b0cb7214c484ae0c694f71df9eb278f6c8b12d4772",
+            "b4dd282ab0d121141ac44245af33b0da5c6329984be80cdddb8b97c3f4a142b2",
+            "86dcdb2b292ea70492fc321bcb8711fa993399e46fe6d103ea6e371b85460dd6"
+        ]
+    },
+    "Soap": {
+        "Passwords": [
+            "Thebigsoap-00",
+            "Thebigsoap-01"
+        ],
+        "Hashes": [
+            "e2eba149ed0deb616a1a14f65b657085d77f4aa38eb50fbf5ab8bb2c81a771e2",
+            "8ad8a42a438b6d1a348cf7d8a34f598e6e67ef4357b8fdcfef9f9c177a8f5e9b"
+        ]
+    }
 }
